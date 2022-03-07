@@ -1,6 +1,11 @@
 ### Hi there,this is Alizch 's GitHub👋
 ### 🌱 I’m currently learning Spring5!!
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="center">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wh0rigin&theme=default&title_color=4682B4" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh0rigin&theme=default&title_color=4682B4" />
+  </p>
+</a>
 <!--
 **ALizceH/ALizceH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ALizceH&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
