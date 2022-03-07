@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there This is Alizch 's GitHub👋
+### 🌱 I’m currently learning Spring5!!
 
 <!--
 **ALizceH/ALizceH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
