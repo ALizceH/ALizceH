@@ -2,7 +2,7 @@
 ### 🌱 I’m currently learning Spring5!!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ALizceH&theme=default&title_color=4682B4" />
+    <img align="center" height="200px" src="https://bad-apple-github-readme.vercel.app/api?username=ALizceH&theme=default&title_color=4682B4" />
   </p>
 </a>
 
