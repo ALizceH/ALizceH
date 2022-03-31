@@ -5,10 +5,10 @@
 
 - ❓ You can ask me about The basic of Java  
 
+<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 20%">
+
 <br/>  
 
-
-<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 20%">
 
 ## My Skill Set  
 <div align="center">
