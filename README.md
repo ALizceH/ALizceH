@@ -8,8 +8,9 @@
 - ❓ You can ask me about The basic of Java  
 
 <br/>  
-<br/>
-<br/>
+
+
+
 ## My Skill Set  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
