@@ -1,11 +1,11 @@
 ### <div align="center">Welcome to ALizceH 's GitHub</div>  
+<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 20%" alt="Matsumae Ohana">
   
 
 - 🌱 I’m currently learning Spring and MyBatis  
   
 
 - ❓ You can ask me about The basic of Java  
-  ![image](https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg)
 
 <br/>  
 
