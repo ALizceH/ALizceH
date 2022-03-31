@@ -1,3 +1,6 @@
+
+<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 20%">
+
 ### <div align="center">Welcome to ALizceH 's GitHub</div>  
 
 - 🌱 I’m currently learning Spring and MyBatis  
@@ -5,7 +8,6 @@
 
 - ❓ You can ask me about The basic of Java  
 
-<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 20%">
 
 <br/>  
 
