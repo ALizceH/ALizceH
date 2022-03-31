@@ -1,4 +1,3 @@
-<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 30%">
 ### <div align="center">Welcome to ALizceH 's GitHub</div>  
   
 
