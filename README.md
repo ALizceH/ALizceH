@@ -65,7 +65,6 @@
 
 
 ## Github Stats  
-<a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@ALizceH?theme=rule34" width=300></a><br/>
 <img style="height: 180px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ALizceH"></a> 
 
 <br/>  
