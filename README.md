@@ -5,7 +5,7 @@
   
 
 - ❓ You can ask me about The basic of Java  
-  ![image](https://github.com/ALizceH/ALizceH/IMG/96052102_p0_master1200.jpg)
+  ![image](https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg)
 
 <br/>  
 
