@@ -65,7 +65,7 @@
 
 
 ## Github Stats  
-<img style="height: 180px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ALizceH"></a> 
+<img style="height: 180px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ALizceH">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALizceH&hide_border=true&layout=compact" align="center" />
 
 <br/>  
