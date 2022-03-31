@@ -2,7 +2,7 @@
 
 # <div align="center">Welcome to ALizceH 's GitHub</div>  
 
-- <div align="center">🌱 I’m currently learning Spring and MyBatis</div>  
+- <div align="center">🌱 I am an anime lover</div>  
   
 
 - <div align="center">❓ You can ask me about The basic of Java</div>   
