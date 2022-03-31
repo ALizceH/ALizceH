@@ -1,5 +1,5 @@
 ### <div align="center">Welcome to ALizceH 's GitHub</div>  
-<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 30%" alt="Matsumae Ohana">
+<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 30%">
   
 
 - 🌱 I’m currently learning Spring and MyBatis  
@@ -8,8 +8,8 @@
 - ❓ You can ask me about The basic of Java  
 
 <br/>  
-
-
+<br/>
+<br/>
 ## My Skill Set  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
