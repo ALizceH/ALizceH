@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 20%">
+<img src="https://github.com/ALizceH/ALizceH/blob/main/IMG/96052102_p0_master1200.jpg" align="right" style="width: 40%">
 
 ### <div align="center">Welcome to ALizceH 's GitHub</div>  
 
