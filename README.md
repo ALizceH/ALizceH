@@ -2,10 +2,10 @@
 
 # <div align="center">Welcome to ALizceH 's GitHub</div>  
 
-- 🌱 I’m currently learning Spring and MyBatis  
+- <div align="center">🌱 I’m currently learning Spring and MyBatis</div>  
   
 
-- ❓ You can ask me about The basic of Java  
+- <div align="center">❓ You can ask me about The basic of Java</div>   
 
 
 <br/>  
